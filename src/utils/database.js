@@ -1,5 +1,4 @@
-// para conectarnos a una base de datos, primero debes crear una instancia
-// de Sequelize
+
 const { Sequelize } = require("sequelize");
 // en la creación de la instancia pasamos los parámetros de configuración
 const db = new Sequelize({
