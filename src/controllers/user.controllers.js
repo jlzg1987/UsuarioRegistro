@@ -23,7 +23,7 @@ const login = async (req, res, next) => {
         if (!isValid) {
             return res.status(400).json({ error: 'El parámetro "password" es requerido.' });
         }
-
+        res.json(user)
     } catch (error) {
         next(error);
     }
