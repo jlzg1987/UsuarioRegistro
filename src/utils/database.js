@@ -2,7 +2,7 @@
 const { Sequelize } = require("sequelize");
 // en la creación de la instancia pasamos los parámetros de configuración
 const db = new Sequelize({
-  database: "usuario", // nombre de la base de datos en donde realizarás tu conexión 
+  database: "usuariodtt", // nombre de la base de datos en donde realizarás tu conexión 
   username: "postgres", // nombre del usuario propietario de la base de datos
   host: "localhost", // el host donde se encuentra tu base de datos
   port: "5432", // el puerto de conexión a tu base de datos (puede ser igual 5433)
