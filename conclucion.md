@@ -1,0 +1,15 @@
+# Conclusión de Proyecto
+
+Este proyecto esta enfoca en una API para login y registo de usuario
+usando freeware como node js para el backend, se uso mucho tecnología de dependencias como:
+
+- bcrypt
+- cors
+- express
+- json-server
+- pg
+- pg-hstore
+- sequelize
+- nodemon
+
+Para su validación de las rutas se uso Postma
