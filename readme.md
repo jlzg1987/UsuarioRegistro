@@ -26,7 +26,7 @@ Link de descargas:
 - Nos pedirá que ingresemos los siguientes datos:
   - Server: localhost
   - Database: postgres
-  - Puerto: 5432 (este puerto depende de windows que use pero siempre aparecerá entre [] )
+  - Puerto: 5432 (este puerto depende de windows que use pero siempre aparecerá entre [ ] )
   - Username: postgres
   - Contraseña: root
 - Se iniciara la pase de datos con el usuario: postgres=#
