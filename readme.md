@@ -18,7 +18,7 @@ Link de descargas:
 - Clonar el repositorio en tu pc/laptop
 - Abrir el terminar ubicándote en la carpeta que clonaste
 - Una ves ubicado instalamos sus dependencias con npm install
-- Para abrir el proyecto usamos Code . en el terminal
+- Para abrir el proyecto usamos Code .
 
 ## Paso para Postgresql
 
