@@ -29,7 +29,7 @@ Link de descargas:
   - Puerto: 5432 (este puerto depende de windows que use pero siempre aparecerá entre [ ] )
   - Username: postgres
   - Contraseña: root
-- Se iniciara la pase de datos con el usuario: postgres=#
+- Se iniciara la base de datos con el usuario: postgres=#
 - Creamos una base de datos se las siguiente manera:
   - CREATE DATABASE usuariodtt;
 - Se recomienda crear la base de datos con el nombre usuariodtt
